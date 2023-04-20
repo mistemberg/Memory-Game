@@ -1,0 +1,24 @@
+#game div {
+  border: 1px solid black;
+  border-width: 10px;
+  border-radius: 50px;
+  width: 15%;
+  height: 100px;
+  margin: 5px;
+  display:inline-block;
+}
+
+body {
+  background-color: #F4EEE1;
+}
+
+h1 {
+  font-style: oblique;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  text-decoration: underline;
+}
